@@ -9,7 +9,7 @@
         <version>1.1.6.RELEASE</version>
     </parent>
 
-    <groupId>de.axelspringer.ideas.pcp.sandbox.coreos-eval</groupId>
+    <groupId>de.gaffa.spring.boot.as</groupId>
     <artifactId>service-template</artifactId>
 
     <version>0.1-SNAPSHOT</version>
