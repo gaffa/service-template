@@ -10,6 +10,8 @@ Endpoints:
     
     /version (only if you @Bean the VersionController)
     
+    /health
+    
     /metrics
     
     /metrics/{name}
